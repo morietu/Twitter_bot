@@ -1,0 +1,13 @@
+2025-07-25 20:00:04,004 - ❌ 収集・分析エラー: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+2025-07-26 12:00:06,169 - ❌ 収集・分析エラー: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+2025-07-27 09:16:29,950 - ❌ 収集・分析エラー: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+2025-07-27 09:16:40,680 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-27 09:20:43,062 - ❌ 収集・分析エラー: 429 Too Many Requests
+Too Many Requests
+2025-07-27 09:20:52,825 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-27 09:43:57,104 - ❌ 収集・分析エラー: 429 Too Many Requests
+Usage cap exceeded: Monthly product cap
+2025-07-27 09:44:08,801 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
